@@ -1,1 +1,1 @@
-Student App
+Student App for SoftUni
